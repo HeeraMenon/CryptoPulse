@@ -1,4 +1,4 @@
-# CryptoPulse 🚀
+# CryptoPulse 
 ## Your Crypto-Invest Mate
 
 ## Introduction 🌟
@@ -27,7 +27,7 @@ CryptoPulse bridges this gap by fetching, analyzing, and visualizing crypto-rela
 - Data Bursts: Optimized database writes and handled bulk inserts without downtime using connection pooling
 - Deployment Complexity: Streamlined multi-service tests & deployments using Docker and CI/CD pipelines.
 
-## Next Steps 💸
+## Next Steps 🚀
 - Expand to support multi-language sentiment analysis.
 - Add new sources like Telegram and Discord.
 - Improve sarcasm, humor, and meme detection in AI models.
