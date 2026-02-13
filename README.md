@@ -1,11 +1,11 @@
 # CryptoPulse 
 ## Your Crypto-Invest Mate
 
-## Introduction 🌟
+## 🌟 Introduction 
 Crypto markets move fast, but real-time public sentiment is scattered across Reddit, Twitter, and various news outlets.
 CryptoPulse bridges this gap by fetching, analyzing, and visualizing crypto-related sentiment in real time, empowering investors with smarter insights.
 
-## Key Features 🔥
+## 🔥 Key Features 
 - Fetch live crypto discussions from Reddit (Twitter limited due to new API costs )
 - Analyze emotions behind the chatter using Vader and BERT AI models 
 - Aggregate sentiments into a single score using a custom-built Go service
@@ -14,10 +14,10 @@ CryptoPulse bridges this gap by fetching, analyzing, and visualizing crypto-rela
 
 
 
-## Architecture Overview 🛠
+## 🛠 Architecture Overview 
 ![image](https://github.com/user-attachments/assets/9b355d98-55f1-4b3e-b823-ec027d0ed6df)
 
-## Roadblocks We Crushed 🛤
+## 🛤 Roadblocks We Crushed 
 - API Limits: Designed smart retry and batching strategies to fetch large data volumes efficiently.
 - Twitter Limitations: Shifted focus to Reddit, ensuring strong sentiment signals without extra costs.
 - Topic Insights:: Condensed real-time discussions to reveal the key drivers behind observed sentiment.
@@ -27,7 +27,7 @@ CryptoPulse bridges this gap by fetching, analyzing, and visualizing crypto-rela
 - Data Bursts: Optimized database writes and handled bulk inserts without downtime using connection pooling
 - Deployment Complexity: Streamlined multi-service tests & deployments using Docker and CI/CD pipelines.
 
-## Next Steps 🚀
+## 🚀 Next Steps 
 - Expand to support multi-language sentiment analysis.
 - Add new sources like Telegram and Discord.
 - Improve sarcasm, humor, and meme detection in AI models.
@@ -35,7 +35,7 @@ CryptoPulse bridges this gap by fetching, analyzing, and visualizing crypto-rela
 - Expand support to smaller cryptocurrencies.
 - Implement real-time trend detection for new coins.
 
-## Built With 🧑‍💻
+## 🧑‍💻 Built With 
 - React.js - Frontend Framework
 - Reddit | Twitter | News CryptoPanic dump - Data Collection
 - Firebase Authentication - Login Authenticator 
@@ -45,7 +45,7 @@ CryptoPulse bridges this gap by fetching, analyzing, and visualizing crypto-rela
 - GitHub Actions - CI/CD Pipelines
 - Google Cloud Run | Amazon Cloudfront - Deployment Platform
 
-## The Team 👥
+## 👥 The Team 
 - Heera Menon
 - Rishiraj Paul Chowdhury
 - Pavan Sai Appari
