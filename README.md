@@ -1,4 +1,4 @@
-# 📊CryptoPulse 
+# 📊 CryptoPulse 
 ## Your Crypto-Invest Mate
 
 ## Introduction 
